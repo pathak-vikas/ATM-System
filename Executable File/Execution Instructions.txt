@@ -1,0 +1,24 @@
+-->Plug and Play mode : Run TestDriver.bat present in the executable folder
+	[It will run directly ATM application in command prompt]  
+
+-->Running Executable ’SSAProject_Pathak_Vikas.jar’ file instructions - 
+
+	'SSAProject_Pathak_Vikas.jar' file can be found in folder '/SSAProject_Pathak_Vikas/Executable File/'
+
+-->System Requirement: Java 1.6+
+
+-->To run the jar file on command prompt/terminal - 
+	java -jar SSAProject_Pathak_Vikas.jar 
+
+-->Once the program starts running, you have option to select one ATM Account Component from two of them. 
+	After selecting a ATM Account Component, you must run the following operations in order to start operating the ATM.
+
+
+-->If you want to run from source code folder
+
+	-->Navigate to /SSAProject_Pathak_Vikas/Source Code/ 
+
+	-->open cmd at this path by typing "cmd" in address bar above 
+
+	-->Then type command "java Driver"
+
